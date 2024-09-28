@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Highly motivated college student pursuing a Bachelor of Science in Computer Science, with a strong academic record and passion for software development and data analysis. Proficient in key technologies like Python, Java, C++, Visual Studio Code, and Android Studio. Skilled in adapting to new environments, solving complex problems, and working collaboratively. Eager to contribute meaningfully to tech-related projects and continue learning in a dynamic, fast-paced environment.
 
 * ✉️  You can contact me at [yehao7998@gmail.com](mailto:yehao7998@gmail.com)
-* 🤝  I'm open to collaborating on Analyzing Gasoline Price Trends: A Predictive Approach
+* 🚀  I'm currently working on [Analyzing Gasoline Price Trends: A Predictive Approach](http://]www.datacamp.com/datalab/w/6b841625-a072-44f2-889b-7e94a76a088b)
 
 ### Skills
 
