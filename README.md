@@ -48,7 +48,7 @@ I'm a passionate **Computer Science graduate** with a strong foundation in softw
 ### 📊 Analyzing Gasoline Price Trends: A Predictive Approach
 A comprehensive data analysis bootcamp project exploring gasoline price patterns and building predictive models to forecast future trends.
 
-**[🔗 View Project](http://www.datacamp.com/datalab/w/6b841625-a072-44f2-889b-7e94a76a088b)**
+**[🔗 View Project](https://github.com/Cminchala/AnalyzingGasPrices)**
 
 **Technologies Used**: Python, Data Analysis, Statistical Modeling, Predictive Analytics
 
