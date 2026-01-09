@@ -66,9 +66,6 @@ A comprehensive data analysis bootcamp project exploring gasoline price patterns
 
 ---
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</div>
 
 <div align="center">
   <i>⭐️ From <a href="https://github.com/yehao09">yehao09</a> | Feel free to reach out for collaborations or just a friendly chat!</i>
