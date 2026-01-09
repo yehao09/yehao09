@@ -1,6 +1,6 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Hao Ye
 
-Highly motivated college student pursuing a Bachelor of Science in Computer Science, with a strong academic record and passion for software development and data analysis. Proficient in key technologies, with hands-on experience in project development and data interpretation.
+New grad with a Bachelor of Science in Computer Science, with a strong academic record and passion for software development and data analysis. Proficient in key technologies like Python, Java, C++, Visual Studio Code, and Android Studio. Skilled in adapting to new environments, solving complex problems, and working collaboratively. Eager to contribute meaningfully to tech-related projects and continue learning in a dynamic, fast-paced environment.
 
 ---
 
