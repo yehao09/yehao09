@@ -54,19 +54,6 @@ A comprehensive data analysis bootcamp project exploring gasoline price patterns
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yehao09&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yehao09&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yehao09&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" height="165" />
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
